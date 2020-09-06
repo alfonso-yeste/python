@@ -1,0 +1,14 @@
+#los básicos de python
+
+#el típico Hola mundo se hace como ves aquí:
+
+>>> print ("Alfonso")
+Alfonso
+
+#como se declara una variable
+>>> mi_nombre="mi nombre es Alfonso"
+>>> mi_nombre
+'mi nombre es Alfonso'
+
+>>> #así se hacen comentarios en python
+>>> 
